@@ -30,10 +30,10 @@ este = 23
 
 #PINES EXTRA
 '''
-noreste =
-noroeste =
-sureste =
-suroeste =
+noreste = 45aa
+noroeste = 45aa
+sureste = 45aa
+suroeste = 45 aa
 
 '''
 
