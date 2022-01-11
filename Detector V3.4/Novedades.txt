@@ -1,3 +1,7 @@
 Se corrigieron errores de funcionamineto
 El programa sigue en ejecucion aunque se desconecte sensor bme280
 Se agrego un tiempo de espera para subida de datos.
+
+Para correr el programa debes tener:
+carpeta 'imagenes' dentro del directorio
+archivo 'modelfile'
